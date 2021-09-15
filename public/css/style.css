@@ -1,0 +1,21 @@
+header{
+    height: 25vh;
+    background-image: linear-gradient(rgb(15, 0, 83),blue);
+    color: white;
+
+    font-size: 30px;
+    display: grid;
+    grid-template-columns: 100px 1fr 100px;
+    justify-items: center;
+    align-items: center;
+}
+
+main{
+    height: 60vh;
+    background-color: rgb(203, 203, 255);
+}
+
+footer{
+    height: 15vh;
+    background-color: black;
+}
